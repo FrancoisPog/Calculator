@@ -1,0 +1,9 @@
+tests/*
+test
+
+*.tex
+*.aux
+*.lof
+*.png
+*.log
+
