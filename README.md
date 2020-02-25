@@ -1,6 +1,7 @@
+[ University Project | November 2019 ]
 # Calculator
-Computer architecture project : a simple calculator made in C, and after in MIPS (assembly language) to export it on circuits.
-[ University Project | L2S3 ]
+A simple calculator made in C, and after in MIPS (assembly language) to export it on circuits.
+
 
 ## Languages used
 - C
